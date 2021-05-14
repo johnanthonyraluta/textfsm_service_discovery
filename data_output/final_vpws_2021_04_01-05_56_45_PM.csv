@@ -1,0 +1,85 @@
+description,group,xc,evpn_nei,create_date,create_time,create_dur,last_change_date,last_change_time,last_change_dur,last_down_date,last_down_time,last_down_dur,state,tx,rx,interface,rate_bps_in,rate_bps_out,rate_pps_in,rate_pps_out,ping_test,ping_result,exec_time
+TC_MLLHUBE001 Te2/1/4: TCMLLT106MLL_F1/F2,XCMLL01MGO01001,CIPB20002_PLDT,10.205.130.1,11/06/2020,03:13:34,(42w0d ago),15/09/2020,01:14:59,(28w2d ago),15/09/2020,01:03:34,(28w2d ago),up,342867025236,1385302578895,TenGigE0/1/0/0,347747000,7716546000,185881,831354,"{
+    ""destination"": ""10.205.130.1/32"",
+    ""response_stream"": ""!!!!!"",
+    ""rtt_avg"": ""5"",
+    ""rtt_max"": ""6"",
+    ""rtt_min"": ""5"",
+    ""sent_qty"": ""5"",
+    ""sent_type"": ""100-byte MPLS Echos"",
+    ""success_pct"": ""100"",
+    ""success_qty"": ""5""
+}",Ping Success,"Thu Apr  1 17:57:02.142 PHT
+17:57:02.308 PHT Thu Apr 1 2021"
+TC_MLLHUBE001 Te2/1/5: TCMLLT106MLL_F3/F4,XCMLL01MGO01002,CIPB20004_PLDT,10.205.130.1,11/06/2020,03:16:44,(42w0d ago),15/09/2020,01:14:58,(28w2d ago),15/09/2020,01:03:33,(28w2d ago),up,311172935178,1369632396279,TenGigE0/1/0/1,301410000,7125990000,150436,775482,"{
+    ""destination"": ""10.205.130.1/32"",
+    ""response_stream"": ""!!!!!"",
+    ""rtt_avg"": ""5"",
+    ""rtt_max"": ""6"",
+    ""rtt_min"": ""5"",
+    ""sent_qty"": ""5"",
+    ""sent_type"": ""100-byte MPLS Echos"",
+    ""success_pct"": ""100"",
+    ""success_qty"": ""5""
+}",Ping Success,"Thu Apr  1 17:57:02.142 PHT
+17:57:02.308 PHT Thu Apr 1 2021"
+TC_MLLHUBE001 Te2/0/10: TCMLLT106MLL_F17/F18,XCMLL01MGO01003,CIPB20015_PLDT,10.205.130.1,25/06/2020,18:45:32,(39w6d ago),15/09/2020,01:14:59,(28w2d ago),15/09/2020,01:03:34,(28w2d ago),up,301659147818,1401412076364,TenGigE0/1/0/5,256460000,7404689000,142665,801922,"{
+    ""destination"": ""10.205.130.1/32"",
+    ""response_stream"": ""!!!!!"",
+    ""rtt_avg"": ""5"",
+    ""rtt_max"": ""6"",
+    ""rtt_min"": ""5"",
+    ""sent_qty"": ""5"",
+    ""sent_type"": ""100-byte MPLS Echos"",
+    ""success_pct"": ""100"",
+    ""success_qty"": ""5""
+}",Ping Success,"Thu Apr  1 17:57:02.142 PHT
+17:57:02.308 PHT Thu Apr 1 2021"
+TC_MLLHUBE001 Te2/0/11: TCMLLT106MLL_F19/F20,XCMLL01MGO01004,CIPB20016_PLDT,10.205.130.1,25/06/2020,19:06:16,(39w6d ago),15/09/2020,01:14:59,(28w2d ago),15/09/2020,01:03:34,(28w2d ago),up,277394284424,1383565194448,TenGigE0/1/0/6,250172000,7920878000,140244,849727,"{
+    ""destination"": ""10.205.130.1/32"",
+    ""response_stream"": ""!!!!!"",
+    ""rtt_avg"": ""5"",
+    ""rtt_max"": ""6"",
+    ""rtt_min"": ""5"",
+    ""sent_qty"": ""5"",
+    ""sent_type"": ""100-byte MPLS Echos"",
+    ""success_pct"": ""100"",
+    ""success_qty"": ""5""
+}",Ping Success,"Thu Apr  1 17:57:02.142 PHT
+17:57:02.308 PHT Thu Apr 1 2021"
+TC_MLLHUBE001 Te2/1/6: TCMLLT106MLL_F5/F6,XCMLL01MGO02001,CIPB20050_PLDT,10.205.130.2,11/06/2020,03:19:44,(42w0d ago),19/08/2020,10:02:42,(32w1d ago),19/08/2020,10:00:22,(32w1d ago),up,377093020736,1135145862293,TenGigE0/1/0/2,342997000,6374100000,192774,698086,"{
+    ""destination"": ""10.205.130.2/32"",
+    ""response_stream"": ""!!!!!"",
+    ""rtt_avg"": ""5"",
+    ""rtt_max"": ""7"",
+    ""rtt_min"": ""5"",
+    ""sent_qty"": ""5"",
+    ""sent_type"": ""100-byte MPLS Echos"",
+    ""success_pct"": ""100"",
+    ""success_qty"": ""5""
+}",Ping Success,"Thu Apr  1 17:57:04.612 PHT
+17:57:04.778 PHT Thu Apr 1 2021"
+TC_MLLHUBE001 Te2/1/7: TCMLLT106MLL_F7/F8,XCMLL01MGO02002,CIPB20051_PLDT,10.205.130.2,11/06/2020,03:22:53,(42w0d ago),19/08/2020,10:12:23,(32w1d ago),19/08/2020,10:10:43,(32w1d ago),up,418411137361,1166694653493,TenGigE0/1/0/3,733483000,6524565000,358964,712586,"{
+    ""destination"": ""10.205.130.2/32"",
+    ""response_stream"": ""!!!!!"",
+    ""rtt_avg"": ""5"",
+    ""rtt_max"": ""7"",
+    ""rtt_min"": ""5"",
+    ""sent_qty"": ""5"",
+    ""sent_type"": ""100-byte MPLS Echos"",
+    ""success_pct"": ""100"",
+    ""success_qty"": ""5""
+}",Ping Success,"Thu Apr  1 17:57:04.612 PHT
+17:57:04.778 PHT Thu Apr 1 2021"
+TC_MLLHUBE001 Te2/1/9: TCMLLT106MLL_F29/F30,XCMLL01MGO02003,CIPB20017_PLDT,10.205.130.2,25/06/2020,19:10:41,(39w6d ago),26/08/2020,20:59:15,(31w0d ago),26/08/2020,20:58:17,(31w0d ago),up,362157965305,1090277345885,TenGigE0/1/0/7,341940000,5877140000,186071,649218,"{
+    ""destination"": ""10.205.130.2/32"",
+    ""response_stream"": ""!!!!!"",
+    ""rtt_avg"": ""5"",
+    ""rtt_max"": ""7"",
+    ""rtt_min"": ""5"",
+    ""sent_qty"": ""5"",
+    ""sent_type"": ""100-byte MPLS Echos"",
+    ""success_pct"": ""100"",
+    ""success_qty"": ""5""
+}",Ping Success,"Thu Apr  1 17:57:04.612 PHT
+17:57:04.778 PHT Thu Apr 1 2021"

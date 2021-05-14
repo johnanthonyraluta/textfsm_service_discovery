@@ -1,0 +1,43 @@
+bridge_grp,bridge_dom,state1,interface,description,link_status,bd_count_0CPU0,bd_count_1CPU0,bd_count_6CPU0,bd_count_7CPU0,bd_count_RSP0CPU0,bd_count_RSP1CPU0
+BNKFEOL003_CONS,BNKFEOL003_CONS,up,BE30003.1203,BNKFEOL003_CONS,up,"                                                                                                                                                         ^
+% Invalid input detected at '^' marker.","                                                                                                                                                         ^
+% Invalid input detected at '^' marker.","                                                                                                                                                         ^
+% Invalid input detected at '^' marker.","                                                                                                                                                         ^
+% Invalid input detected at '^' marker.","                                                                                                                                                            ^
+% Invalid input detected at '^' marker.","                                                                                                                                                            ^
+% Invalid input detected at '^' marker."
+BNKFEOL003_FNAT,BNKFEOL003_FNAT,up,BE30003.952,BNKFEOL003_FNAT,up,"                                                                                                                                                         ^
+% Invalid input detected at '^' marker.","                                                                                                                                                         ^
+% Invalid input detected at '^' marker.","                                                                                                                                                         ^
+% Invalid input detected at '^' marker.","                                                                                                                                                         ^
+% Invalid input detected at '^' marker.","                                                                                                                                                            ^
+% Invalid input detected at '^' marker.","                                                                                                                                                            ^
+% Invalid input detected at '^' marker."
+RSCFEOL001_CONS,RSCFEOL001_CONS,up,BE30003.1201,RSCFEOL001_CONS,up,"                                                                                                                                                         ^
+% Invalid input detected at '^' marker.","                                                                                                                                                         ^
+% Invalid input detected at '^' marker.","                                                                                                                                                         ^
+% Invalid input detected at '^' marker.","                                                                                                                                                         ^
+% Invalid input detected at '^' marker.","                                                                                                                                                            ^
+% Invalid input detected at '^' marker.","                                                                                                                                                            ^
+% Invalid input detected at '^' marker."
+RSCFEOL001_FNAT,RSCFEOL001_FNAT,up,BE30003.950,RSCFEOL001_FNAT,up,"                                                                                                                                                         ^
+% Invalid input detected at '^' marker.","                                                                                                                                                         ^
+% Invalid input detected at '^' marker.","                                                                                                                                                         ^
+% Invalid input detected at '^' marker.","                                                                                                                                                         ^
+% Invalid input detected at '^' marker.","                                                                                                                                                            ^
+% Invalid input detected at '^' marker.","                                                                                                                                                            ^
+% Invalid input detected at '^' marker."
+RSCFEOL002_CONS,RSCFEOL002_CONS,up,BE30003.1202,RSCFEOL002_CONS,up,"                                                                                                                                                         ^
+% Invalid input detected at '^' marker.","                                                                                                                                                         ^
+% Invalid input detected at '^' marker.","                                                                                                                                                         ^
+% Invalid input detected at '^' marker.","                                                                                                                                                         ^
+% Invalid input detected at '^' marker.","                                                                                                                                                            ^
+% Invalid input detected at '^' marker.","                                                                                                                                                            ^
+% Invalid input detected at '^' marker."
+RSCFEOL002_FNAT,RSCFEOL002_FNAT,up,BE30003.951,RSCFEOL002_FNAT,up,"                                                                                                                                                         ^
+% Invalid input detected at '^' marker.","                                                                                                                                                         ^
+% Invalid input detected at '^' marker.","                                                                                                                                                         ^
+% Invalid input detected at '^' marker.","                                                                                                                                                         ^
+% Invalid input detected at '^' marker.","                                                                                                                                                            ^
+% Invalid input detected at '^' marker.","                                                                                                                                                            ^
+% Invalid input detected at '^' marker."

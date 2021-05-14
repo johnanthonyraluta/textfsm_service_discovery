@@ -1,0 +1,79 @@
+service_name,interface,rate_bps_in,rate_bps_out,rate_pps_in,rate_pps_out,mac,vrf,proto,status,src_ip,address,commands,ping_test,ping_result,exec_time
+**Connected to MLLN3874CIBE002 Bundle-Ether10**,Bundle-Ether10,73000,52000,73,68,08ec.f549.83ec,default,Up,Up,10.205.197.29,10.205.197.30,ping 10.205.197.30 source 10.205.197.29,"{
+    ""destination"": ""10.205.197.30"",
+    ""response_stream"": ""!!!!!"",
+    ""rtt_avg"": ""1"",
+    ""rtt_max"": ""2"",
+    ""rtt_min"": ""1"",
+    ""sent_qty"": ""5"",
+    ""sent_type"": ""100-byte ICMP Echos"",
+    ""success_pct"": ""100"",
+    ""success_qty"": ""5"",
+    ""timeout"": ""2""
+}",Ping Success,"Thu Apr  1 18:05:09.758 PHT
+18:05:09.925 PHT Thu Apr 1 2021"
+**Connected to  MKTG3610CIBP001 Bundle-Ether47**,Bundle-Ether31,50074349000,2918679000,5317366,1375525,d46a.3526.9494,default,Up,Up,10.205.194.33,10.205.194.34,ping 10.205.194.34 source 10.205.194.33,"{
+    ""destination"": ""10.205.194.34"",
+    ""response_stream"": ""!!!!!"",
+    ""rtt_avg"": ""4"",
+    ""rtt_max"": ""5"",
+    ""rtt_min"": ""4"",
+    ""sent_qty"": ""5"",
+    ""sent_type"": ""100-byte ICMP Echos"",
+    ""success_pct"": ""100"",
+    ""success_qty"": ""5"",
+    ""timeout"": ""2""
+}",Ping Success,"Thu Apr  1 18:05:12.472 PHT
+18:05:12.637 PHT Thu Apr 1 2021"
+**Connected to SPC00E67CIBP002 Bundle-Ether43**,Bundle-Ether32,76000,27000,34,34,d46a.3503.348e,default,Up,Up,10.205.194.37,10.205.194.38,ping 10.205.194.38 source 10.205.194.37,"{
+    ""destination"": ""10.205.194.38"",
+    ""response_stream"": ""!!!!!"",
+    ""rtt_avg"": ""4"",
+    ""rtt_max"": ""5"",
+    ""rtt_min"": ""4"",
+    ""sent_qty"": ""5"",
+    ""sent_type"": ""100-byte ICMP Echos"",
+    ""success_pct"": ""100"",
+    ""success_qty"": ""5"",
+    ""timeout"": ""2""
+}",Ping Success,"Thu Apr  1 18:05:15.170 PHT
+18:05:15.335 PHT Thu Apr 1 2021"
+**Connected to BCN00550CICU001 Bundle-Ether251**,Bundle-Ether251,52000,81000,77,77,0032.17e2.ca44,default,Up,Up,10.205.230.194,10.205.230.193,ping 10.205.230.193 source 10.205.230.194,"{
+    ""destination"": ""10.205.230.193"",
+    ""response_stream"": ""!!!!!"",
+    ""rtt_avg"": ""1"",
+    ""rtt_max"": ""2"",
+    ""rtt_min"": ""1"",
+    ""sent_qty"": ""5"",
+    ""sent_type"": ""100-byte ICMP Echos"",
+    ""success_pct"": ""100"",
+    ""success_qty"": ""5"",
+    ""timeout"": ""2""
+}",Ping Success,"Thu Apr  1 18:05:17.842 PHT
+18:05:18.006 PHT Thu Apr 1 2021"
+**Connected to GGTN3596CICU001 Bundle-Ether251**,Bundle-Ether252,55000,67000,73,73,d46a.3564.e484,default,Up,Up,10.205.230.226,10.205.230.225,ping 10.205.230.225 source 10.205.230.226,"{
+    ""destination"": ""10.205.230.225"",
+    ""response_stream"": ""!!!!!"",
+    ""rtt_avg"": ""1"",
+    ""rtt_max"": ""2"",
+    ""rtt_min"": ""1"",
+    ""sent_qty"": ""5"",
+    ""sent_type"": ""100-byte ICMP Echos"",
+    ""success_pct"": ""100"",
+    ""success_qty"": ""5"",
+    ""timeout"": ""2""
+}",Ping Success,"Thu Apr  1 18:05:20.512 PHT
+18:05:20.675 PHT Thu Apr 1 2021"
+**Connected to MLLN0037CICU001 Bundle-Ether251**,Bundle-Ether253,52000,64000,73,73,d46a.3534.a484,default,Up,Up,10.205.231.2,10.205.231.1,ping 10.205.231.1 source 10.205.231.2,"{
+    ""destination"": ""10.205.231.1"",
+    ""response_stream"": ""!!!!!"",
+    ""rtt_avg"": ""1"",
+    ""rtt_max"": ""2"",
+    ""rtt_min"": ""1"",
+    ""sent_qty"": ""5"",
+    ""sent_type"": ""100-byte ICMP Echos"",
+    ""success_pct"": ""100"",
+    ""success_qty"": ""5"",
+    ""timeout"": ""2""
+}",Ping Success,"Thu Apr  1 18:05:23.200 PHT
+18:05:23.372 PHT Thu Apr 1 2021"

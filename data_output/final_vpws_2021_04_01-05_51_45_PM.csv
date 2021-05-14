@@ -1,0 +1,51 @@
+description,group,xc,evpn_nei,create_date,create_time,create_dur,last_change_date,last_change_time,last_change_dur,last_down_date,last_down_time,last_down_dur,state,tx,rx,interface,rate_bps_in,rate_bps_out,rate_pps_in,rate_pps_out,ping_test,ping_result,exec_time
+DP_BNKHUBE001 GigabitEthernet5/1/18,XCBNK01MGO01001,CIPB20009_PLDT,10.205.130.1,31/03/2021,02:36:16,(1d15h ago),31/03/2021,05:02:50,(1d12h ago),31/03/2021,05:02:18,(1d12h ago),up,50810689522,69384247501,TenGigE0/1/0/10,2340972000,4450762000,455865,620238,"{
+    ""destination"": ""10.205.130.1/32"",
+    ""response_stream"": ""!!!!!"",
+    ""rtt_avg"": ""3"",
+    ""rtt_max"": ""4"",
+    ""rtt_min"": ""3"",
+    ""sent_qty"": ""5"",
+    ""sent_type"": ""100-byte MPLS Echos"",
+    ""success_pct"": ""100"",
+    ""success_qty"": ""5""
+}",Ping Success,"Thu Apr  1 17:51:59.638 PHT
+17:51:59.787 PHT Thu Apr 1 2021"
+DP_BNKHUBE001 GigabitEthernet5/1/19,XCBNK01MGO01002,CIPB20010_PLDT,10.205.130.1,31/03/2021,02:36:16,(1d15h ago),31/03/2021,05:02:43,(1d12h ago),31/03/2021,05:02:18,(1d12h ago),up,50737875329,66477953217,TenGigE0/1/0/11,2389016000,4157290000,454066,597545,"{
+    ""destination"": ""10.205.130.1/32"",
+    ""response_stream"": ""!!!!!"",
+    ""rtt_avg"": ""3"",
+    ""rtt_max"": ""4"",
+    ""rtt_min"": ""3"",
+    ""sent_qty"": ""5"",
+    ""sent_type"": ""100-byte MPLS Echos"",
+    ""success_pct"": ""100"",
+    ""success_qty"": ""5""
+}",Ping Success,"Thu Apr  1 17:51:59.638 PHT
+17:51:59.787 PHT Thu Apr 1 2021"
+DP_BNKHUBE001 GigabitEthernet1/1/16,XCBNK01MGO01003,CIPB20033_PLDT,0.0.0.0,31/03/2021,02:36:16,(1d15h ago),31/03/2021,02:49:03,(1d15h ago),,,,down,0,0,TenGigE0/1/0/14,0,0,0,0,,,
+DP_BNKHUBE001 GigabitEthernet5/1/22,XCBNK01MGO02001,CIPB20031_PLDT,10.205.130.2,31/03/2021,02:36:16,(1d15h ago),31/03/2021,05:02:43,(1d12h ago),31/03/2021,05:02:18,(1d12h ago),up,50931656884,71699215192,TenGigE0/1/0/12,2294624000,4764399000,451911,656593,"{
+    ""destination"": ""10.205.130.2/32"",
+    ""response_stream"": ""!!!!!"",
+    ""rtt_avg"": ""3"",
+    ""rtt_max"": ""3"",
+    ""rtt_min"": ""3"",
+    ""sent_qty"": ""5"",
+    ""sent_type"": ""100-byte MPLS Echos"",
+    ""success_pct"": ""100"",
+    ""success_qty"": ""5""
+}",Ping Success,"Thu Apr  1 17:52:01.230 PHT
+17:52:01.382 PHT Thu Apr 1 2021"
+DP_BNKHUBE001 GigabitEthernet5/0/12,XCBNK01MGO02002,CIPB20032_PLDT,10.205.130.2,31/03/2021,02:36:16,(1d15h ago),31/03/2021,05:02:43,(1d12h ago),31/03/2021,05:02:18,(1d12h ago),up,50765127047,73220725220,TenGigE0/1/0/13,2376856000,4899008000,457634,660999,"{
+    ""destination"": ""10.205.130.2/32"",
+    ""response_stream"": ""!!!!!"",
+    ""rtt_avg"": ""3"",
+    ""rtt_max"": ""3"",
+    ""rtt_min"": ""3"",
+    ""sent_qty"": ""5"",
+    ""sent_type"": ""100-byte MPLS Echos"",
+    ""success_pct"": ""100"",
+    ""success_qty"": ""5""
+}",Ping Success,"Thu Apr  1 17:52:01.230 PHT
+17:52:01.382 PHT Thu Apr 1 2021"
+DP_BNKHUBE001 GigabitEthernet1/1/17,XCBNK01MGO02003,CIPB20200_PLDT,0.0.0.0,31/03/2021,02:36:16,(1d15h ago),31/03/2021,02:48:50,(1d15h ago),,,,down,0,0,TenGigE0/6/0/14,0,0,0,0,,,

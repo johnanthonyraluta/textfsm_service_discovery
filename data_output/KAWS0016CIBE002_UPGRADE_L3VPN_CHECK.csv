@@ -1,0 +1,196 @@
+service_name,interface,mac,vrf,proto,status,src_ip,address,commands,ping_test,ping_result,exec_time
+eNodeB<>SSU (Clocking)_SYNC_CR-20210316-00189,Bundle-Ether60002.4071,9c71.3a3e.03d2,IPR40004_S1_POI,Up,Up,10.205.208.61,10.205.208.62,ping vrf IPR40004_S1_POI 10.205.208.62 source 10.205.208.61,"{
+    ""destination"": ""10.205.208.62"",
+    ""response_stream"": ""!!!!!"",
+    ""rtt_avg"": ""1"",
+    ""rtt_max"": ""1"",
+    ""rtt_min"": ""1"",
+    ""sent_qty"": ""5"",
+    ""sent_type"": ""100-byte ICMP Echos"",
+    ""success_pct"": ""100"",
+    ""success_qty"": ""5"",
+    ""timeout"": ""2""
+}",Ping Success,"Wed Mar 31 21:27:22.081 PHT
+21:27:22.247 PHT Wed Mar 31 2021"
+eNodeB<>SSU (Clocking)_SYNC_CR-20210316-00189,Bundle-Ether60002.4071,9c71.3a3e.03d2,IPR40004_S1_POI,Up,Up,10.205.208.61,10.205.208.62,ping vrf IPR40004_S1_POI 10.205.208.62 source 10.205.208.61,"{
+    ""destination"": ""10.205.208.62"",
+    ""response_stream"": ""!!!!!"",
+    ""rtt_avg"": ""1"",
+    ""rtt_max"": ""1"",
+    ""rtt_min"": ""1"",
+    ""sent_qty"": ""5"",
+    ""sent_type"": ""100-byte ICMP Echos"",
+    ""success_pct"": ""100"",
+    ""success_qty"": ""5"",
+    ""timeout"": ""2""
+}",Ping Success,"Wed Mar 31 21:27:22.081 PHT
+21:27:22.247 PHT Wed Mar 31 2021"
+eNodeB<>SSU (Clocking)_SYNC_CR-20210316-00189,Bundle-Ether60002.4073,9c71.3a3e.03d2,IPR40000_ABIS,Up,Up,10.205.208.49,10.205.208.50,ping vrf IPR40004_S1_POI 10.205.208.62 source 10.205.208.61,"{
+    ""destination"": ""10.205.208.62"",
+    ""response_stream"": ""!!!!!"",
+    ""rtt_avg"": ""1"",
+    ""rtt_max"": ""1"",
+    ""rtt_min"": ""1"",
+    ""sent_qty"": ""5"",
+    ""sent_type"": ""100-byte ICMP Echos"",
+    ""success_pct"": ""100"",
+    ""success_qty"": ""5"",
+    ""timeout"": ""2""
+}",Ping Success,"Wed Mar 31 21:27:22.081 PHT
+21:27:22.247 PHT Wed Mar 31 2021"
+eNodeB<>SSU (Clocking)_SYNC_CR-20210316-00189,Bundle-Ether60002.4073,9c71.3a3e.03d2,IPR40000_ABIS,Up,Up,10.205.208.49,10.205.208.50,ping vrf IPR40004_S1_POI 10.205.208.62 source 10.205.208.61,"{
+    ""destination"": ""10.205.208.62"",
+    ""response_stream"": ""!!!!!"",
+    ""rtt_avg"": ""1"",
+    ""rtt_max"": ""1"",
+    ""rtt_min"": ""1"",
+    ""sent_qty"": ""5"",
+    ""sent_type"": ""100-byte ICMP Echos"",
+    ""success_pct"": ""100"",
+    ""success_qty"": ""5"",
+    ""timeout"": ""2""
+}",Ping Success,"Wed Mar 31 21:27:22.081 PHT
+21:27:22.247 PHT Wed Mar 31 2021"
+eNodeB<>SSU (Clocking)_SYNC_CR-20210316-00189,Bundle-Ether60002.4074,9c71.3a3e.03d2,IPR40001_IUB,Up,Up,10.205.208.53,10.205.208.54,ping vrf IPR40004_S1_POI 10.205.208.62 source 10.205.208.61,"{
+    ""destination"": ""10.205.208.62"",
+    ""response_stream"": ""!!!!!"",
+    ""rtt_avg"": ""1"",
+    ""rtt_max"": ""1"",
+    ""rtt_min"": ""1"",
+    ""sent_qty"": ""5"",
+    ""sent_type"": ""100-byte ICMP Echos"",
+    ""success_pct"": ""100"",
+    ""success_qty"": ""5"",
+    ""timeout"": ""2""
+}",Ping Success,"Wed Mar 31 21:27:22.081 PHT
+21:27:22.247 PHT Wed Mar 31 2021"
+eNodeB<>SSU (Clocking)_SYNC_CR-20210316-00189,Bundle-Ether60002.4074,9c71.3a3e.03d2,IPR40001_IUB,Up,Up,10.205.208.53,10.205.208.54,ping vrf IPR40004_S1_POI 10.205.208.62 source 10.205.208.61,"{
+    ""destination"": ""10.205.208.62"",
+    ""response_stream"": ""!!!!!"",
+    ""rtt_avg"": ""1"",
+    ""rtt_max"": ""1"",
+    ""rtt_min"": ""1"",
+    ""sent_qty"": ""5"",
+    ""sent_type"": ""100-byte ICMP Echos"",
+    ""success_pct"": ""100"",
+    ""success_qty"": ""5"",
+    ""timeout"": ""2""
+}",Ping Success,"Wed Mar 31 21:27:22.081 PHT
+21:27:22.247 PHT Wed Mar 31 2021"
+eNodeB<>SSU (Clocking)_SYNC_CR-20210316-00189,Bundle-Ether60002.4075,9c71.3a3e.03d2,IPR40002_SYNC,Up,Up,10.205.208.57,10.205.208.58,ping vrf IPR40004_S1_POI 10.205.208.62 source 10.205.208.61,"{
+    ""destination"": ""10.205.208.62"",
+    ""response_stream"": ""!!!!!"",
+    ""rtt_avg"": ""1"",
+    ""rtt_max"": ""1"",
+    ""rtt_min"": ""1"",
+    ""sent_qty"": ""5"",
+    ""sent_type"": ""100-byte ICMP Echos"",
+    ""success_pct"": ""100"",
+    ""success_qty"": ""5"",
+    ""timeout"": ""2""
+}",Ping Success,"Wed Mar 31 21:27:22.081 PHT
+21:27:22.247 PHT Wed Mar 31 2021"
+eNodeB<>SSU (Clocking)_SYNC_CR-20210316-00189,Bundle-Ether60002.4075,9c71.3a3e.03d2,IPR40002_SYNC,Up,Up,10.205.208.57,10.205.208.58,ping vrf IPR40004_S1_POI 10.205.208.62 source 10.205.208.61,"{
+    ""destination"": ""10.205.208.62"",
+    ""response_stream"": ""!!!!!"",
+    ""rtt_avg"": ""1"",
+    ""rtt_max"": ""1"",
+    ""rtt_min"": ""1"",
+    ""sent_qty"": ""5"",
+    ""sent_type"": ""100-byte ICMP Echos"",
+    ""success_pct"": ""100"",
+    ""success_qty"": ""5"",
+    ""timeout"": ""2""
+}",Ping Success,"Wed Mar 31 21:27:22.081 PHT
+21:27:22.247 PHT Wed Mar 31 2021"
+DHCP server for VOIP,TenGigE0/1/0/43.4012,78bc.1a80.c18b,IPTV-local,Up,Up,10.156.190.25,10.156.190.26,ping vrf IPTV-local 10.156.190.26 source 10.156.190.25,"{
+    ""destination"": ""10.156.190.26"",
+    ""response_stream"": ""!!!!!"",
+    ""rtt_avg"": ""1"",
+    ""rtt_max"": ""2"",
+    ""rtt_min"": ""1"",
+    ""sent_qty"": ""5"",
+    ""sent_type"": ""100-byte ICMP Echos"",
+    ""success_pct"": ""100"",
+    ""success_qty"": ""5"",
+    ""timeout"": ""2""
+}",Ping Success,"Wed Mar 31 21:27:27.402 PHT
+21:27:27.565 PHT Wed Mar 31 2021"
+DHCP server for VOIP,TenGigE0/1/0/43.4013,78bc.1a80.c18b,VOIP-local,Up,Up,10.156.254.25,10.156.254.26,ping vrf IPTV-local 10.156.190.26 source 10.156.190.25,"{
+    ""destination"": ""10.156.190.26"",
+    ""response_stream"": ""!!!!!"",
+    ""rtt_avg"": ""1"",
+    ""rtt_max"": ""2"",
+    ""rtt_min"": ""1"",
+    ""sent_qty"": ""5"",
+    ""sent_type"": ""100-byte ICMP Echos"",
+    ""success_pct"": ""100"",
+    ""success_qty"": ""5"",
+    ""timeout"": ""2""
+}",Ping Success,"Wed Mar 31 21:27:27.402 PHT
+21:27:27.565 PHT Wed Mar 31 2021"
+**Connected to KAWS0016CILB008 GigabitEthernet1/1/4**,GigabitEthernet0/1/0/44,a453.0e08.5f74,CIPR20000_TNTMGMT_H00,Up,Up,10.230.158.49,10.230.158.50,ping vrf CIPR20000_TNTMGMT_H00 10.230.158.50 source 10.230.158.49,"{
+    ""destination"": ""10.230.158.50"",
+    ""response_stream"": ""!!!!!"",
+    ""rtt_avg"": ""1"",
+    ""rtt_max"": ""2"",
+    ""rtt_min"": ""1"",
+    ""sent_qty"": ""5"",
+    ""sent_type"": ""100-byte ICMP Echos"",
+    ""success_pct"": ""100"",
+    ""success_qty"": ""5"",
+    ""timeout"": ""2""
+}",Ping Success,"Wed Mar 31 21:27:30.073 PHT
+21:27:30.238 PHT Wed Mar 31 2021"
+**Connected to NCS1002-2 Mgmt Interface**,GigabitEthernet0/1/0/45,7872.5d87.046c,CIPR20000_TNTMGMT_H00,Up,Up,10.205.146.21,10.205.146.22,ping vrf CIPR20000_TNTMGMT_H00 10.205.146.22 source 10.205.146.21,"{
+    ""destination"": ""10.205.146.22"",
+    ""response_stream"": ""!!!!!"",
+    ""rtt_avg"": ""1"",
+    ""rtt_max"": ""2"",
+    ""rtt_min"": ""1"",
+    ""sent_qty"": ""5"",
+    ""sent_type"": ""100-byte ICMP Echos"",
+    ""success_pct"": ""100"",
+    ""success_qty"": ""5"",
+    ""timeout"": ""2""
+}",Ping Success,"Wed Mar 31 21:27:32.742 PHT
+21:27:32.909 PHT Wed Mar 31 2021"
+DHCP server for VOIP,TenGigE0/6/0/43.4012,5c5a.c728.ed63,IPR30076_IPTV,Up,Up,10.156.190.26,10.156.190.25,ping vrf IPR30076_IPTV 10.156.190.25 source 10.156.190.26,"{
+    ""destination"": ""10.156.190.25"",
+    ""response_stream"": ""!!!!!"",
+    ""rtt_avg"": ""1"",
+    ""rtt_max"": ""2"",
+    ""rtt_min"": ""1"",
+    ""sent_qty"": ""5"",
+    ""sent_type"": ""100-byte ICMP Echos"",
+    ""success_pct"": ""100"",
+    ""success_qty"": ""5"",
+    ""timeout"": ""2""
+}",Ping Success,"Wed Mar 31 21:27:38.085 PHT
+21:27:38.248 PHT Wed Mar 31 2021"
+DHCP server for VOIP,TenGigE0/6/0/43.4013,5c5a.c728.ed63,IPR30903_FTTH_VoIP_Prod,Up,Up,10.156.254.26,10.156.254.25,ping vrf IPR30076_IPTV 10.156.190.25 source 10.156.190.26,"{
+    ""destination"": ""10.156.190.25"",
+    ""response_stream"": ""!!!!!"",
+    ""rtt_avg"": ""1"",
+    ""rtt_max"": ""2"",
+    ""rtt_min"": ""1"",
+    ""sent_qty"": ""5"",
+    ""sent_type"": ""100-byte ICMP Echos"",
+    ""success_pct"": ""100"",
+    ""success_qty"": ""5"",
+    ""timeout"": ""2""
+}",Ping Success,"Wed Mar 31 21:27:38.085 PHT
+21:27:38.248 PHT Wed Mar 31 2021"
+RNC1501 SB (IuB),TenGigE0/6/0/47.3100,0004.9697.d876,IPR40001_IUB,Up,Up,14.62.253.89,14.62.253.90,ping vrf IPR40001_IUB 14.62.253.90 source 14.62.253.89,"{
+    ""destination"": ""14.62.253.90"",
+    ""response_stream"": ""!!!!!"",
+    ""rtt_avg"": ""1"",
+    ""rtt_max"": ""2"",
+    ""rtt_min"": ""1"",
+    ""sent_qty"": ""5"",
+    ""sent_type"": ""100-byte ICMP Echos"",
+    ""success_pct"": ""100"",
+    ""success_qty"": ""5"",
+    ""timeout"": ""2""
+}",Ping Success,"Wed Mar 31 21:27:40.733 PHT
+21:27:40.896 PHT Wed Mar 31 2021"

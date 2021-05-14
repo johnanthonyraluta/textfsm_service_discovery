@@ -1,0 +1,27 @@
+service_name,interface,rate_bps_in,rate_bps_out,rate_pps_in,rate_pps_out,mac,vrf,proto,status,src_ip,address,commands,ping_test,ping_result,exec_time
+**Connected to BLA00N55CICU001 Bundle-Ether501**,Bundle-Ether501,129000,86000,143,143,d46a.3510.dc82,default,Up,Up,10.205.231.81,10.205.231.82,ping 10.205.231.82 source 10.205.231.81,"{
+    ""destination"": ""10.205.231.82"",
+    ""response_stream"": ""!!!!!"",
+    ""rtt_avg"": ""3"",
+    ""rtt_max"": ""4"",
+    ""rtt_min"": ""1"",
+    ""sent_qty"": ""5"",
+    ""sent_type"": ""100-byte ICMP Echos"",
+    ""success_pct"": ""100"",
+    ""success_qty"": ""5"",
+    ""timeout"": ""2""
+}",Ping Success,"Fri Apr  9 11:25:54.412 PHT
+11:25:54.492 PHT Fri Apr 9 2021"
+**Connected to BLA00N55CICU001 Bundle-Ether501**,Bundle-Ether501,129000,86000,143,143,d46a.3510.dc82,default,Up,Up,10.205.231.81,10.205.231.82,ping 10.205.231.82 source 10.205.231.81,"{
+    ""destination"": ""10.205.231.82"",
+    ""response_stream"": ""!!!!!"",
+    ""rtt_avg"": ""3"",
+    ""rtt_max"": ""4"",
+    ""rtt_min"": ""1"",
+    ""sent_qty"": ""5"",
+    ""sent_type"": ""100-byte ICMP Echos"",
+    ""success_pct"": ""100"",
+    ""success_qty"": ""5"",
+    ""timeout"": ""2""
+}",Ping Success,"Fri Apr  9 11:25:54.412 PHT
+11:25:54.492 PHT Fri Apr 9 2021"

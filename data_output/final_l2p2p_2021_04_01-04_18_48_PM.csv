@@ -1,0 +1,8 @@
+ac_id,create_date,create_dur,create_time,evpn_nei,group,interface,last_change_date,last_change_dur,last_change_time,last_down_date,last_down_dur,last_down_time,pw_id,rx,state,tx,xc,rate_bps_in,rate_bps_out,rate_pps_in,rate_pps_out,description
+21,01/04/2021,(14:24:21,01:54:36,None,XCBNK02SPC01001,TenGigE0/1/0/10,01/04/2021,(13:39:04 ago),02:39:54,,,,25,0,up,0,CIPB20011_PLDT,0,0,0,0,DP_BNKHUBE002 GigabitEthernet5/1/23
+22,01/04/2021,(14:24:21,01:54:36,None,XCBNK02SPC01002,TenGigE0/1/0/11,01/04/2021,(13:39:04 ago),02:39:54,,,,26,0,up,0,CIPB20012_PLDT,0,0,0,0,DP_BNKHUBE002 GigabitEthernet5/1/21
+45,01/04/2021,(14:24:21,01:54:36,None,XCBNK02SPC01003,TenGigE0/1/0/14,01/04/2021,(13:39:05 ago),02:39:53,,,,49,0,down,0,CIPB20201_PLDT,0,0,0,0,DP_BNKHUBE002 GigabitEthernet1/1/16
+23,01/04/2021,(14:24:21,01:54:36,None,XCBNK02SPC02001,TenGigE0/1/0/12,01/04/2021,(13:39:04 ago),02:39:54,,,,27,0,up,0,CIPB20013_PLDT,0,0,0,0,DP_BNKHUBE002 GigabitEthernet5/1/19
+24,01/04/2021,(14:24:21,01:54:36,None,XCBNK02SPC02002,TenGigE0/1/0/13,01/04/2021,(13:39:04 ago),02:39:54,,,,28,0,up,0,CIPB20014_PLDT,0,0,0,0,DP_BNKHUBE002 GigabitEthernet5/1/10
+46,01/04/2021,(14:24:21,01:54:36,None,XCBNK02SPC02003,TenGigE0/6/0/14,01/04/2021,(13:39:05 ago),02:39:53,,,,96,0,down,0,CIPB20202_PLDT,0,0,0,0,DP_BNKHUBE002 GigabitEthernet1/1/17
+12342783,01/04/2021,(14:24:21,01:54:36,None,CEN-Link-Testing-2783,TenGigE0/1/0/4.2783,01/04/2021,(13:39:04 ago),02:39:54,,,,62783,0,up,0,CEN-Link-Testing-1,,,,,

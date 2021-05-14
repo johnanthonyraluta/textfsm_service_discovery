@@ -1,0 +1,92 @@
+service_name,interface,rate_bps_in,rate_bps_out,rate_pps_in,rate_pps_out,mac,vrf,proto,status,src_ip,address,commands,ping_test,ping_result,exec_time
+DP_MLLN3874OSTC001_Access1_NMS,TenGigE0/1/0/4.4075,1000,0,1,0,84c8.070f.da92,IPR40002_SYNC,Up,Up,10.249.95.53,10.249.95.54,ping vrf IPR40002_SYNC 10.249.95.54 source 10.249.95.53,"{
+    ""destination"": ""10.249.95.54"",
+    ""response_stream"": ""!!!!!"",
+    ""rtt_avg"": ""1"",
+    ""rtt_max"": ""2"",
+    ""rtt_min"": ""1"",
+    ""sent_qty"": ""5"",
+    ""sent_type"": ""100-byte ICMP Echos"",
+    ""success_pct"": ""100"",
+    ""success_qty"": ""5"",
+    ""timeout"": ""2""
+}",Ping Success,"Thu Apr  1 18:03:40.729 PHT
+18:03:40.893 PHT Thu Apr 1 2021"
+DP_MLLN3874OSTC001_Access1_NMS,TenGigE0/1/0/4.4081,1000,0,1,0,84c8.070f.da92,IPR40024_SYNCNMS,Up,Up,10.254.45.81,10.254.45.82,ping vrf IPR40002_SYNC 10.249.95.54 source 10.249.95.53,"{
+    ""destination"": ""10.249.95.54"",
+    ""response_stream"": ""!!!!!"",
+    ""rtt_avg"": ""1"",
+    ""rtt_max"": ""2"",
+    ""rtt_min"": ""1"",
+    ""sent_qty"": ""5"",
+    ""sent_type"": ""100-byte ICMP Echos"",
+    ""success_pct"": ""100"",
+    ""success_qty"": ""5"",
+    ""timeout"": ""2""
+}",Ping Success,"Thu Apr  1 18:03:40.729 PHT
+18:03:40.893 PHT Thu Apr 1 2021"
+DHCP server for VOIP,TenGigE0/1/0/43.4012,0,0,0,0,dc77.4c5a.1823,IPTV-local,Up,Up,10.156.190.61,10.156.190.62,ping vrf IPTV-local 10.156.190.62 source 10.156.190.61,"{
+    ""destination"": ""10.156.190.62"",
+    ""response_stream"": ""!!!!!"",
+    ""rtt_avg"": ""1"",
+    ""rtt_max"": ""2"",
+    ""rtt_min"": ""1"",
+    ""sent_qty"": ""5"",
+    ""sent_type"": ""100-byte ICMP Echos"",
+    ""success_pct"": ""100"",
+    ""success_qty"": ""5"",
+    ""timeout"": ""2""
+}",Ping Success,"Thu Apr  1 18:03:46.097 PHT
+18:03:46.260 PHT Thu Apr 1 2021"
+DHCP server for VOIP,TenGigE0/1/0/43.4013,0,0,0,0,dc77.4c5a.1823,VOIP-local,Up,Up,10.156.254.61,10.156.254.62,ping vrf IPTV-local 10.156.190.62 source 10.156.190.61,"{
+    ""destination"": ""10.156.190.62"",
+    ""response_stream"": ""!!!!!"",
+    ""rtt_avg"": ""1"",
+    ""rtt_max"": ""2"",
+    ""rtt_min"": ""1"",
+    ""sent_qty"": ""5"",
+    ""sent_type"": ""100-byte ICMP Echos"",
+    ""success_pct"": ""100"",
+    ""success_qty"": ""5"",
+    ""timeout"": ""2""
+}",Ping Success,"Thu Apr  1 18:03:46.097 PHT
+18:03:46.260 PHT Thu Apr 1 2021"
+DP_MLLPXMLLCINC202-NCS1002 Eth0,GigabitEthernet0/1/0/45,1000,0,1,1,7872.5d87.041c,CIPR20000_TNTMGMT_H00,Up,Up,10.205.146.41,10.205.146.42,ping vrf CIPR20000_TNTMGMT_H00 10.205.146.42 source 10.205.146.41,"{
+    ""destination"": ""10.205.146.42"",
+    ""response_stream"": ""!!!!!"",
+    ""rtt_avg"": ""1"",
+    ""rtt_max"": ""2"",
+    ""rtt_min"": ""1"",
+    ""sent_qty"": ""5"",
+    ""sent_type"": ""100-byte ICMP Echos"",
+    ""success_pct"": ""100"",
+    ""success_qty"": ""5"",
+    ""timeout"": ""2""
+}",Ping Success,"Thu Apr  1 18:03:48.790 PHT
+18:03:48.955 PHT Thu Apr 1 2021"
+DHCP server for VOIP,TenGigE0/6/0/43.4012,0,0,0,0,5c5a.c728.ee0b,IPR30076_IPTV,Up,Up,10.156.190.62,10.156.190.61,ping vrf IPR30076_IPTV 10.156.190.61 source 10.156.190.62,"{
+    ""destination"": ""10.156.190.61"",
+    ""response_stream"": ""!!!!!"",
+    ""rtt_avg"": ""1"",
+    ""rtt_max"": ""2"",
+    ""rtt_min"": ""1"",
+    ""sent_qty"": ""5"",
+    ""sent_type"": ""100-byte ICMP Echos"",
+    ""success_pct"": ""100"",
+    ""success_qty"": ""5"",
+    ""timeout"": ""2""
+}",Ping Success,"Thu Apr  1 18:03:54.157 PHT
+18:03:54.325 PHT Thu Apr 1 2021"
+DHCP server for VOIP,TenGigE0/6/0/43.4013,0,0,0,0,5c5a.c728.ee0b,IPR30903_FTTH_VoIP_Prod,Up,Up,10.156.254.62,10.156.254.61,ping vrf IPR30076_IPTV 10.156.190.61 source 10.156.190.62,"{
+    ""destination"": ""10.156.190.61"",
+    ""response_stream"": ""!!!!!"",
+    ""rtt_avg"": ""1"",
+    ""rtt_max"": ""2"",
+    ""rtt_min"": ""1"",
+    ""sent_qty"": ""5"",
+    ""sent_type"": ""100-byte ICMP Echos"",
+    ""success_pct"": ""100"",
+    ""success_qty"": ""5"",
+    ""timeout"": ""2""
+}",Ping Success,"Thu Apr  1 18:03:54.157 PHT
+18:03:54.325 PHT Thu Apr 1 2021"

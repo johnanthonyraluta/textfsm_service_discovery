@@ -1,0 +1,27 @@
+service_name,interface,rate_bps_in,rate_bps_out,rate_pps_in,rate_pps_out,mac,vrf,proto,status,src_ip,address,commands,ping_test,ping_result,exec_time
+**Connected to SXLPXSXLCIBE001 Bundle-Ether252**,Bundle-Ether201,65000,51000,108,77,08ec.f525.82a9,default,Up,Up,10.205.233.101,10.205.233.102,ping 10.205.233.102 source 10.205.233.101,"{
+    ""destination"": ""10.205.233.102"",
+    ""response_stream"": ""!!!!!"",
+    ""rtt_avg"": ""2"",
+    ""rtt_max"": ""4"",
+    ""rtt_min"": ""1"",
+    ""sent_qty"": ""5"",
+    ""sent_type"": ""100-byte ICMP Echos"",
+    ""success_pct"": ""100"",
+    ""success_qty"": ""5"",
+    ""timeout"": ""2""
+}",Ping Success,"Thu Apr  8 00:07:09.214 PHT
+00:07:09.295 PHT Thu Apr 8 2021"
+**Connected to SXLPXSXLCIBE002 Bundle-Ether252**,Bundle-Ether202,166000,125000,138,89,08ec.f52c.8bd9,default,Up,Up,10.205.233.105,10.205.233.106,ping 10.205.233.106 source 10.205.233.105,"{
+    ""destination"": ""10.205.233.106"",
+    ""response_stream"": ""!!!!!"",
+    ""rtt_avg"": ""2"",
+    ""rtt_max"": ""4"",
+    ""rtt_min"": ""1"",
+    ""sent_qty"": ""5"",
+    ""sent_type"": ""100-byte ICMP Echos"",
+    ""success_pct"": ""100"",
+    ""success_qty"": ""5"",
+    ""timeout"": ""2""
+}",Ping Success,"Thu Apr  8 00:07:11.524 PHT
+00:07:11.605 PHT Thu Apr 8 2021"
